@@ -5,10 +5,10 @@
     <img alt="japrest" title="#japrest" src="./assets/gif2.gif" />
 </h1>
 <h1 align="center">
-    <img alt="japrest" title="#japrest" src="./assets/responsive1.png" />
+    <img alt="japrest" title="#japrest" src="./assets/responsive2.png" />
 </h1>
 <h1 align="center">
-    <img alt="japrest" title="#japrest" src="./assets/responsive2.png" />
+    <img alt="japrest" title="#japrest" src="./assets/responsive1.png" />
 </h1>
 
 ## 💻 About project
